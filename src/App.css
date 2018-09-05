@@ -11,8 +11,14 @@
 
 .App .navbar{
   background-color: #c86b85;
+  color: #f5eee6;
 }
 
 p{
   color: #f5eee6;
+}
+
+.App .navbar-collapse .nav .navitem{
+  color: #f5eee6;
+
 }
