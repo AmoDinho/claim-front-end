@@ -6,8 +6,8 @@ export default class Home extends Component{
         return(
             <div className="Home">
             <div className="lander">
-              <h1> Claim</h1>
-              <p>Allows you organize all your insurance claims in one central place!</p>
+              <h1> Claim <span aria-label="skier" role="img">🔮</span>️</h1>
+              <p>Allows you to organize all your insurance claims in one central place!</p>
             </div>
             </div>
         )
