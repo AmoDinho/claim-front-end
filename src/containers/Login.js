@@ -70,7 +70,7 @@ export default class Login extends Component {
       return (
           <div className="Login">
           <MyEnhancedForm 
-          handleSubmit={this.handleSubmit}
+          onSubmit={this.handleSubmit}
           handleChange={this.handleChange}
           valueemail={email}
           valuepass={password}
